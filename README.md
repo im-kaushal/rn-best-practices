@@ -1,9 +1,3 @@
-# rn-best-practices
-Elevate your React Native development with our curated repository. Find coding standards, component architecture, state management tips, performance optimization, error handling, testing strategies, and deployment best practices. Join us to write impeccable code and build exceptional mobile experiences.
-
-
-
-
 ## React Native Best Code Practices
 
 1. **Exception Handling**: Use try/catch blocks for all API block codes and error boundaries. 
@@ -22,7 +16,7 @@ Elevate your React Native development with our curated repository. Find coding s
 7. **Use Safe Area View**: Ensure content doesn't overlap system UI elements.
    - Link: [React Navigation Docs](https://reactnavigation.org/docs/handling-safe-area/)
 
-8. **Keyboard Avoidance**: Use Keyboard Avoidance View to adjust layout when keyboard is present.
+8. **Keyboard Avoidance**: Use the Keyboard Avoidance View to adjust the layout when the keyboard is present.
    - Link: [LogRocket Blog](https://blog.logrocket.com/keyboardawarescrollview-keyboardavoidingview-react-native/)
 
 9. **Code Review**: Review your code at least once before creating a pull or merge request.
@@ -39,7 +33,7 @@ Elevate your React Native development with our curated repository. Find coding s
 
 14. **Use Flatlist**: Reduce memory consumption with Flatlist instead of .map or scroll view.
 
-15. **Maintain Constants File**: Store strings, images, colors, and themes in a constants file.
+15. **Maintain Constants File**: Store strings, images, colours, and themes in a constants file.
 
 16. **State Management**: Use state management libraries like Redux.
 
