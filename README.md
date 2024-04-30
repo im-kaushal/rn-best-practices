@@ -58,9 +58,11 @@
 25. **Memoization**: Use memoization for caching components and functions.
 
 26. **Navigation Helper Class**: Create a navigation helper class.
+27.  **Folder Structure**:
 
-27. **Firebase Service Class**: Create a Firebase service class.
 
-28. **Store Sensitive Data**: Ensure sensitive data is stored securely.
+28. **Firebase Service Class**: Create a Firebase service class.
+
+29. **Store Sensitive Data**: Ensure sensitive data is stored securely.
     - Link: [React Native Documentation](https://reactnative.dev/docs/security)
 
